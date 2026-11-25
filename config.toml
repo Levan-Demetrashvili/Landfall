@@ -1,0 +1,8 @@
+[parcel] 
+shipping_cost_per_kg = 9.7
+VAT = 18
+[parcel.threshold]
+amount = 300
+weight = 30
+customs_fee = 20
+declaration_fee = 10
